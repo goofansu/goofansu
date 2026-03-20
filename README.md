@@ -1,6 +1,6 @@
-# Yejun Su
+# 👋 Hello
 
-## Vibecoding
+## ✨ Vibe coding
 
 - [pi-remote-control](https://github.com/goofansu/pi-remote-control): a pi extension inspired by Claude Code's remote-control, for personal use and research only
 - [minidic](https://github.com/goofansu/minidic): a tiny macOS dictation tool sitting quietly on your menubar
