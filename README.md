@@ -2,6 +2,7 @@
 
 ## ✨ Vibe coding
 
+- [pi-chat](https://github.com/goofansu/pi-chat): a Slack bot that answers questions about a codebase using pi
 - [minidic](https://github.com/goofansu/minidic): a tiny macOS dictation tool with offline (Parakeet) and online (Groq Whisper) modes, sitting quietly in the menubar
 - [mlwcli](https://github.com/goofansu/mlwcli): a terminal CLI to manage Miniflux, Linkding, and Wallabag in one place
 
