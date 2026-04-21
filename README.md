@@ -2,6 +2,7 @@
 
 ## ✨ Vibe coding
 
+- [pi-subagent](https://github.com/goofansu/pi-subagent): a pi extension for delegating tasks to subagents, for personal use and research only
 - [pi-chat](https://github.com/goofansu/pi-chat): a Slack bot that answers questions about a codebase using pi
 - [pi-remote-control](https://github.com/goofansu/pi-remote-control): a pi extension inspired by Claude Code's remote-control, for personal use and research only
 - [minidic](https://github.com/goofansu/minidic): a tiny macOS dictation tool with offline (Parakeet) and online (Groq Whisper) modes, sitting quietly in the menubar
