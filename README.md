@@ -2,6 +2,7 @@
 
 ## ✨ Vibe coding
 
+- [herdr-hunk](https://github.com/goofansu/herdr-hunk): a Herdr plugin for reviewing live changes or the last commit in Hunk
 - [pi-subagent](https://github.com/goofansu/pi-subagent): a pi extension for delegating tasks to subagents, for personal use and research only
 - [pi-chat](https://github.com/goofansu/pi-chat): a Slack bot that answers questions about a codebase using pi
 - [pi-remote-control](https://github.com/goofansu/pi-remote-control): a pi extension inspired by Claude Code's remote-control, for personal use and research only
