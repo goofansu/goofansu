@@ -4,6 +4,8 @@
 
 - [herdr-notebook](https://github.com/goofansu/herdr-notebook): a Herdr plugin that keeps one permanent Markdown notebook per workspace, opened in your editor over the active pane
 - [herdr-hunk](https://github.com/goofansu/herdr-hunk): a Herdr plugin that opens a Hunk pane for uncommitted changes, the last commit, or everything this branch changed, and closes it when you quit Hunk
+- [pi-linear](https://github.com/goofansu/pi-linear): a pi extension that injects Linear issue context into prompts and shows a compact issue widget
+- [pi-raindrop](https://github.com/goofansu/pi-raindrop): a pi extension to list, create, update, and manage Raindrop.io bookmarks, tags, and collections
 - [pi-subagent](https://github.com/goofansu/pi-subagent): a pi extension for delegating tasks to subagents, for personal use and research only
 - [pi-chat](https://github.com/goofansu/pi-chat): a Slack bot that answers questions about a codebase using pi
 - [pi-remote-control](https://github.com/goofansu/pi-remote-control): a pi extension inspired by Claude Code's remote-control, for personal use and research only
