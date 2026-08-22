@@ -2,6 +2,7 @@
 
 ## ✨ Vibe coding
 
+- [try](https://github.com/goofansu/try): a shell helper to find, create, and jump into project directories, cloning a repo or making a worktree when given a source
 - [herdr-notebook](https://github.com/goofansu/herdr-notebook): a Herdr plugin that keeps one permanent Markdown notebook per workspace, opened in your editor over the active pane
 - [herdr-hunk](https://github.com/goofansu/herdr-hunk): a Herdr plugin providing quick review actions that open a temporary Hunk overlay, restoring your workspace when you quit Hunk
 - [pi-linear](https://github.com/goofansu/pi-linear): a pi extension that injects Linear issue context into prompts and shows a compact issue widget
