@@ -3,7 +3,7 @@
 ## ✨ Vibe coding
 
 - [herdr-notebook](https://github.com/goofansu/herdr-notebook): a Herdr plugin that keeps one permanent Markdown notebook per workspace, opened in your editor over the active pane
-- [herdr-hunk](https://github.com/goofansu/herdr-hunk): a Herdr plugin that opens a Hunk pane for uncommitted changes, the last commit, or everything this branch changed, and closes it when you quit Hunk
+- [herdr-hunk](https://github.com/goofansu/herdr-hunk): a Herdr plugin providing quick review actions that open a temporary Hunk overlay, restoring your workspace when you quit Hunk
 - [pi-linear](https://github.com/goofansu/pi-linear): a pi extension that injects Linear issue context into prompts and shows a compact issue widget
 - [pi-raindrop](https://github.com/goofansu/pi-raindrop): a pi extension for Raindrop.io bookmarks and collections, with a tool to get, create, and update bookmarks and a skill for bulk workflows
 - [pi-subagent](https://github.com/goofansu/pi-subagent): a pi extension for delegating tasks to subagents, for personal use and research only
